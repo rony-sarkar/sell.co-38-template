@@ -622,6 +622,7 @@ img {
     padding: 3px 8px;
     font-weight: bold;
     border-radius: 3px;
+    background-color: green;
 }
 
 .product-condition {
